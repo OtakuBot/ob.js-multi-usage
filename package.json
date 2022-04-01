@@ -1,0 +1,15 @@
+{
+    "name": "OtakuBot",
+    "version": "4.0",
+    "description": "Open Source version of OtakuBot",
+    "main": "main.js",
+    "scripts": {
+      "test": "node main.js"
+    },
+    "author": "NightcoreATDZO#3550",
+    "dependencies": {
+      "discord.js": "^13.6.0",
+      "fs": "^0.0.1-security",
+      "superagent": "^7.1.2"
+    }
+}
